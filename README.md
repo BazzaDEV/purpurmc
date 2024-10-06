@@ -53,8 +53,6 @@ buildah manifest push ghcr.io/bazzadev/purpurmc:v1.21.1-latest
 buildah manifest push ghcr.io/bazzadev/purpurmc:v1.21.1
 ```
 
-## Pull
-
 ## References
 
 - Java start script generator for the server: [https://docs.papermc.io/misc/tools/start-script-gen](https://docs.papermc.io/misc/tools/start-script-gen)
