@@ -1,4 +1,4 @@
-# PurpurMC Container
+# PurpurMC Rootless Image
 
 Container image for [PurpurMC](https://purpurmc.org/docs/purpur/), a high performance [Minecraft](https://minecraft.net) server based on [PaperMC](https://papermc.io/).
 
